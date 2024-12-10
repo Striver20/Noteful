@@ -20,7 +20,7 @@ A feature-rich **Notes App** built using **React Native**, designed to help user
 Clone this repository and follow the instructions below to get started:
 
 ```bash
-git clone https://github.com/yourusername/notes-app.git
+git clone https://github.com/Striver20/notes-app.git
 cd notes-app
 npm install
 npm start
